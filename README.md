@@ -6,7 +6,7 @@ This landing page was made using TailwindCSS and vanilla JavaScript and it is co
 **Link:** [https://carloski.github.io/tailwindLandingPage/]
 
 
-![Chat Preview](https://i.imgur.com/9XWkj3v.png)
+![Chat Preview](https://i.imgur.com/G1RCn7l.png)
 
 ![Chat Preview](https://i.imgur.com/9XWkj3v.png)
   
