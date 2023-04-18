@@ -1,5 +1,5 @@
-# tailwindLandingPage
-# Landing Page made with TailwindCSS
+# Agency Landing Page 
+## made with TailwindCSS
 
 This landing page was made using TailwindCSS and vanilla JavaScript and it is complete responsive. 
 
