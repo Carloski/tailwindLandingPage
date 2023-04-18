@@ -6,10 +6,9 @@ This landing page was made using TailwindCSS and vanilla JavaScript and it is co
 **Link:** [https://carloski.github.io/tailwindLandingPage/]
 
 
-<img  align="left" src="https://imgur.com/9XWkj3v" height="370">
-<img  src="[https://user-images.githubusercontent.com/59510577/219567945-3c3092e0-3c9b-42f0-9669-62e21fc80046.png](https://i.imgur.com/9XWkj3v.png)" height="370">
+![Chat Preview](https://i.imgur.com/9XWkj3v.png)
 
-&nbsp;
+![Chat Preview](https://i.imgur.com/T2BrnD2.png)
   
 
 
