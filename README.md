@@ -8,7 +8,7 @@ This landing page was made using TailwindCSS and vanilla JavaScript and it is co
 
 ![Chat Preview](https://i.imgur.com/9XWkj3v.png)
 
-![Chat Preview](https://i.imgur.com/T2BrnD2.png)
+![Chat Preview](https://i.imgur.com/9XWkj3v.png)
   
 
 
